@@ -2,6 +2,6 @@
 
 ### Basically it is a clone of the Facebook's emoji reaction bar.
 
-### Technologies Used - HTML & CSS
+### Technologies Used - HTML & CSS.
 
 ### Find me on Instagram - @electrifying_codes
