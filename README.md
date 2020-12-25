@@ -1,6 +1,6 @@
 ### This Project is for my Instagram Page- @electrifying_codes
 
-### Basically it is a clone for the Facebook emoji reaction bar
+### Basically it is a clone of the Facebook emoji reaction bar
 
 ### Technologies Used - HTML & CSS
 
